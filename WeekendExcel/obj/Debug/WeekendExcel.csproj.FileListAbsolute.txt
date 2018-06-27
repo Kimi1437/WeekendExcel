@@ -1,0 +1,11 @@
+C:\PrivateSolution\test\WeekendExcel\WeekendExcel\bin\Debug\WeekendExcel.exe.config
+C:\PrivateSolution\test\WeekendExcel\WeekendExcel\bin\Debug\WeekendExcel.exe
+C:\PrivateSolution\test\WeekendExcel\WeekendExcel\bin\Debug\WeekendExcel.pdb
+C:\PrivateSolution\test\WeekendExcel\WeekendExcel\obj\Debug\WeekendExcel.Form1.resources
+C:\PrivateSolution\test\WeekendExcel\WeekendExcel\obj\Debug\WeekendExcel.LogonStatistics.resources
+C:\PrivateSolution\test\WeekendExcel\WeekendExcel\obj\Debug\WeekendExcel.Progress.resources
+C:\PrivateSolution\test\WeekendExcel\WeekendExcel\obj\Debug\WeekendExcel.Properties.Resources.resources
+C:\PrivateSolution\test\WeekendExcel\WeekendExcel\obj\Debug\WeekendExcel.csproj.GenerateResource.Cache
+C:\PrivateSolution\test\WeekendExcel\WeekendExcel\obj\Debug\WeekendExcel.exe
+C:\PrivateSolution\test\WeekendExcel\WeekendExcel\obj\Debug\WeekendExcel.pdb
+C:\PrivateSolution\test\WeekendExcel\WeekendExcel\obj\Debug\WeekendExcel.csprojResolveAssemblyReference.cache
